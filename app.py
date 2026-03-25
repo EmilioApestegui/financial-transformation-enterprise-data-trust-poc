@@ -106,6 +106,7 @@ tabs = st.tabs([
     "4) Data Quality",
     "5) Executive View",
     "6) Adoption & Value",
+    "7) Executive Briefing"
 ])
 
 with tabs[0]:
@@ -299,3 +300,23 @@ with tabs[5]:
 
     st.line_chart(adoption_df.set_index("month_start")[["active_users", "trusted_kpis", "hours_saved_per_week"]])
     st.dataframe(adoption_df, use_container_width=True, hide_index=True)
+with tabs[6]:
+
+    st.header("Executive Briefing")
+
+    import base64
+
+    pdf_file = "data/Enterprise-Finance-Data-Trust-Transformation.pdf"
+
+    with open(pdf_file, "rb") as f:
+        base64_pdf = base64.b64encode(f.read()).decode()
+
+    pdf_display = f"""
+    <iframe src="data:application/pdf;base64,{base64_pdf}"
+    width="100%"
+    height="900"
+    type="application/pdf">
+    </iframe>
+    """
+
+    st.markdown(pdf_display, unsafe_allow_html=True)

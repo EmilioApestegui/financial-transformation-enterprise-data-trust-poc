@@ -1,0 +1,9 @@
+dq_check_id,source_object,check_name,status,quality_score,issue_summary
+DQ-301,Trading P&L feed,Realized and unrealized fields populated,Pass,98.5,Required fields present for all desks
+DQ-302,Wholesale account master,Wholesale rule: operating use verified,Fail,71.0,227 accounts lack eligible operating-use evidence
+DQ-303,Wholesale account master,Balance spike <= 20% above 30-day rolling average,Fail,66.0,143 accounts exceed 20% threshold
+DQ-304,Wholesale account master,30-day activity threshold met,Pass,94.0,Activity rule passes for 94% of candidate accounts
+DQ-305,Reg reporting adjustments,Approved exclusion code present,Fail,74.0,Adjustment file contains unmapped exclusion codes
+DQ-306,RWA capital mart,Latest model version applied,Fail,78.0,Two legal entities still on prior model vintage
+DQ-307,Reconciliation mart,Break aging bucket assigned,Pass,96.0,Aging categories standardized for most breaks
+DQ-308,Treasury liquidity positions,Stress factor table current,Pass,97.0,Table refreshed and validated against Treasury baseline

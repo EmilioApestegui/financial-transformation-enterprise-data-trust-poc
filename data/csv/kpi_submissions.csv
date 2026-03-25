@@ -1,0 +1,16 @@
+report_month,kpi_name,function_name,reported_value
+2026-03-01,Net Trading Revenue,Trading,482000000.0
+2026-03-01,Net Trading Revenue,Finance Product Control,468000000.0
+2026-03-01,Net Trading Revenue,External Regulatory Reporting,455000000.0
+2026-03-01,Wholesale Eligible Accounts,Wholesale Operations,1842.0
+2026-03-01,Wholesale Eligible Accounts,Trading,1703.0
+2026-03-01,Wholesale Eligible Accounts,External Regulatory Reporting,1615.0
+2026-03-01,Liquidity Coverage Ratio,Treasury Liquidity,1.32
+2026-03-01,Liquidity Coverage Ratio,Finance Product Control,1.3
+2026-03-01,Liquidity Coverage Ratio,External Regulatory Reporting,1.28
+2026-03-01,Risk Weighted Assets,Market Risk,92000000000.0
+2026-03-01,Risk Weighted Assets,Finance Product Control,95000000000.0
+2026-03-01,Risk Weighted Assets,External Regulatory Reporting,93000000000.0
+2026-03-01,Reconciliation Breaks,Wholesale Operations,412.0
+2026-03-01,Reconciliation Breaks,Finance Product Control,350.0
+2026-03-01,Reconciliation Breaks,External Regulatory Reporting,289.0

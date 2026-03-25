@@ -1,0 +1,6 @@
+incident_id,incident_title,impacted_feed,status,severity,root_cause,opened_at
+INC-2101,Trading P&L restatement,Trading P&L feed,Open,High,FX translation reserve posted after cut-off,2026-03-24 07:10:00
+INC-2102,Late GL feed,SAP GL feed,Resolved,Medium,North America batch dependency delayed by 22 minutes,2026-03-23 06:29:00
+INC-2103,Reg report resubmission,Reg reporting adjustments,Open,Critical,Manual exclusion file not aligned to approved policy,2026-03-24 08:05:00
+INC-2104,Liquidity recalculation,Treasury liquidity positions,Resolved,High,Stress outflow factor table refreshed after validation,2026-03-22 09:16:00
+INC-2105,Wholesale account mismatch,Wholesale account master,Open,Critical,Accounts tagged as wholesale without meeting SteerCo rule thresholds,2026-03-24 08:18:00

@@ -1,0 +1,6 @@
+issue_id,issue_title,owner_group,status,priority,opened_date,remediation_plan
+ISS-401,Wholesale account rule certification incomplete,Data Governance,Open,High,2026-03-24,Pending SteerCo ratification of final threshold wording
+ISS-402,RWA model version mismatch,Risk,Open,High,2026-03-22,Finance and Risk still reconciling parallel model runs
+ISS-403,Reg reporting exclusion mapping gap,External Reporting,Open,Critical,2026-03-24,Unmapped exclusions create resubmission risk
+ISS-404,Reconciliation threshold inconsistency,Finance Control,In Progress,Medium,2026-03-21,Tolerance policy to be standardized across operations and finance
+ISS-405,Trading P&L late dependency,Trading,Resolved,Medium,2026-03-23,Upstream FX reserve load moved earlier in batch

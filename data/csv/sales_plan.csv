@@ -1,0 +1,73 @@
+month_start,region,product_category,plan_revenue,plan_units
+2026-01-01,US Broker-Dealer,Rates Trading,5454000.0,329
+2026-01-01,US Broker-Dealer,FX Trading,4848000.0,297
+2026-01-01,US Broker-Dealer,Cash Management,2929000.0,193
+2026-01-01,US Broker-Dealer,Trade Finance,2575500.0,174
+2026-01-01,UK Markets Bank,Rates Trading,5151000.0,313
+2026-01-01,UK Markets Bank,FX Trading,4494500.0,277
+2026-01-01,UK Markets Bank,Cash Management,2777500.0,185
+2026-01-01,UK Markets Bank,Trade Finance,2424000.0,166
+2026-01-01,Singapore Treasury Branch,Rates Trading,3636000.0,231
+2026-01-01,Singapore Treasury Branch,FX Trading,3939000.0,247
+2026-01-01,Singapore Treasury Branch,Cash Management,2373500.0,163
+2026-01-01,Singapore Treasury Branch,Trade Finance,2222000.0,155
+2026-02-01,US Broker-Dealer,Rates Trading,5513994.0,333
+2026-02-01,US Broker-Dealer,FX Trading,4901328.0,299
+2026-02-01,US Broker-Dealer,Cash Management,2961219.0,195
+2026-02-01,US Broker-Dealer,Trade Finance,2603830.0,175
+2026-02-01,UK Markets Bank,Rates Trading,5207661.0,316
+2026-02-01,UK Markets Bank,FX Trading,4543940.0,280
+2026-02-01,UK Markets Bank,Cash Management,2808052.0,186
+2026-02-01,UK Markets Bank,Trade Finance,2450664.0,167
+2026-02-01,Singapore Treasury Branch,Rates Trading,3675996.0,233
+2026-02-01,Singapore Treasury Branch,FX Trading,3982329.0,250
+2026-02-01,Singapore Treasury Branch,Cash Management,2399608.0,164
+2026-02-01,Singapore Treasury Branch,Trade Finance,2246442.0,156
+2026-03-01,US Broker-Dealer,Rates Trading,5573988.0,336
+2026-03-01,US Broker-Dealer,FX Trading,4954656.0,302
+2026-03-01,US Broker-Dealer,Cash Management,2993438.0,196
+2026-03-01,US Broker-Dealer,Trade Finance,2632161.0,177
+2026-03-01,UK Markets Bank,Rates Trading,5264322.0,319
+2026-03-01,UK Markets Bank,FX Trading,4593379.0,283
+2026-03-01,UK Markets Bank,Cash Management,2838605.0,188
+2026-03-01,UK Markets Bank,Trade Finance,2477328.0,168
+2026-03-01,Singapore Treasury Branch,Rates Trading,3715992.0,235
+2026-03-01,Singapore Treasury Branch,FX Trading,4025658.0,252
+2026-03-01,Singapore Treasury Branch,Cash Management,2425717.0,166
+2026-03-01,Singapore Treasury Branch,Trade Finance,2270884.0,157
+2026-04-01,US Broker-Dealer,Rates Trading,5633982.0,339
+2026-04-01,US Broker-Dealer,FX Trading,5007984.0,305
+2026-04-01,US Broker-Dealer,Cash Management,3025657.0,198
+2026-04-01,US Broker-Dealer,Trade Finance,2660492.0,178
+2026-04-01,UK Markets Bank,Rates Trading,5320983.0,322
+2026-04-01,UK Markets Bank,FX Trading,4642818.0,285
+2026-04-01,UK Markets Bank,Cash Management,2869158.0,190
+2026-04-01,UK Markets Bank,Trade Finance,,170
+2026-04-01,Singapore Treasury Branch,Rates Trading,3755988.0,238
+2026-04-01,Singapore Treasury Branch,FX Trading,4068987.0,254
+2026-04-01,Singapore Treasury Branch,Cash Management,2451826.0,167
+2026-04-01,Singapore Treasury Branch,Trade Finance,2295326.0,159
+2026-05-01,US Broker-Dealer,Rates Trading,5693976.0,342
+2026-05-01,US Broker-Dealer,FX Trading,5061312.0,308
+2026-05-01,US Broker-Dealer,Cash Management,3057876.0,200
+2026-05-01,US Broker-Dealer,Trade Finance,2688822.0,180
+2026-05-01,UK Markets Bank,Rates Trading,5377644.0,325
+2026-05-01,UK Markets Bank,FX Trading,4692258.0,288
+2026-05-01,UK Markets Bank,Cash Management,2899710.0,191
+2026-05-01,UK Markets Bank,Trade Finance,2530656.0,171
+2026-05-01,Singapore Treasury Branch,Rates Trading,3795984.0,240
+2026-05-01,Singapore Treasury Branch,FX Trading,4112316.0,257
+2026-05-01,Singapore Treasury Branch,Cash Management,2477934.0,168
+2026-05-01,Singapore Treasury Branch,Trade Finance,2319768.0,160
+2026-06-01,US Broker-Dealer,Rates Trading,5753970.0,346
+2026-06-01,US Broker-Dealer,FX Trading,5114640.0,311
+2026-06-01,US Broker-Dealer,Cash Management,3090095.0,202
+2026-06-01,US Broker-Dealer,Trade Finance,2717152.0,181
+2026-06-01,UK Markets Bank,Rates Trading,5434305.0,328
+2026-06-01,UK Markets Bank,FX Trading,4741698.0,291
+2026-06-01,UK Markets Bank,Cash Management,2930262.0,193
+2026-06-01,UK Markets Bank,Trade Finance,2557320.0,173
+2026-06-01,Singapore Treasury Branch,Rates Trading,3835980.0,242
+2026-06-01,Singapore Treasury Branch,FX Trading,4155645.0,259
+2026-06-01,Singapore Treasury Branch,Cash Management,2504042.0,170
+2026-06-01,Singapore Treasury Branch,Trade Finance,2344210.0,161

@@ -1,0 +1,7 @@
+feed_name,domain_owner,status,expected_time,received_time,business_critical_flag
+SAP GL feed,Finance,On Time,2026-03-24 06:05:00,2026-03-24 06:04:00,Y
+Trading P&L feed,Markets,Late,2026-03-24 06:15:00,2026-03-24 07:02:00,Y
+Subledger reconciliations,Finance Control,On Time,2026-03-24 06:20:00,2026-03-24 06:19:00,Y
+Wholesale account master,Wholesale Operations,Late,2026-03-24 05:55:00,2026-03-24 07:41:00,Y
+Reg reporting adjustments,External Reporting,Failed,2026-03-24 06:30:00,,N
+Treasury liquidity positions,Treasury,On Time,2026-03-24 06:10:00,2026-03-24 06:08:00,Y

@@ -306,7 +306,7 @@ with tabs[6]:
 
     import base64
 
-    pdf_file = "data/Enterprise-Finance-Data-Trust-Transformation.pdf"
+    pdf_file = "data/enterprise_finance_transformation_brief.pdf"
 
     with open(pdf_file, "rb") as f:
         base64_pdf = base64.b64encode(f.read()).decode()
